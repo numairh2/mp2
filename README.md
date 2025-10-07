@@ -1,6 +1,7 @@
 # MP 2: New Clear REACTive App
 ### Due: October 7th, 2025, 11:59PM CDT
 
+
 ## Table of Contents
 1. [Assignment](#assignment)
 2. [Grading Breakdown](#grading-breakdown)
